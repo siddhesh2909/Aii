@@ -17,6 +17,7 @@ export default function LandingPage() {
       <WorkflowSection />
       <AIAssistantSection />
       <TestimonialsSection />
+      <PricingSection />
       <CTASection />
       <Footer />
     </main>
